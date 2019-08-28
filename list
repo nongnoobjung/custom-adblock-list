@@ -22,3 +22,12 @@ movie2free.com##.notice
 movie2free.com/wp-content/themes/next/images^$image
 cdn-center55.com^$media
 baover.ml^$media
+
+niceoppai.net###text-33 > .textwidget > center
+niceoppai.net###text-33
+niceoppai.net###text-90 > .con
+niceoppai.net###text-93 > .con
+niceoppai.net##.textwidget > center
+niceoppai.net###sct_footer_banner
+*$image,domain=1.bp.blogspot.com
+
