@@ -1,0 +1,23 @@
+! Title: uBlock filters by nongnoobjung
+! Description: Filters optimized for uBlock
+! Homepage: https://fb.com/nongnoobjung
+! Last updated: 2019-08-29
+
+movie1free.com##.media-popup-container
+movie2free.com##.media-popup-image
+movie2free.com###content > div.content-main > div:nth-child(8)
+movie2free.com###content > div.content-main > div:nth-child(7)
+movie2free.com###content > div.content-main > div:nth-child(6)
+movie2free.com###content > div.content-main > div:nth-child(5)
+movie2free.com###content > div.content-main > div:nth-child(3)
+movie2free.com###content > div.content-main > div:nth-child(2)
+movie2free.com###content > div.content-left > div > div.box
+movie2free.com##.content-right
+movie2free.com###content-right
+movie2free.com##body > div:nth-child(15)
+movie2free.com###wrap > div.header > div.header-right > div:nth-child(2)
+movie2free.com###aaa-banner-left
+movie2free.com###aaa-banner-right
+movie2free.com##.notice
+cdn-center55.com^$media
+baover.ml^$media
