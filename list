@@ -1,6 +1,7 @@
 ! Title: uBlock filters by nongnoobjung
 ! Description: Filters optimized for uBlock
 ! Homepage: https://fb.com/nongnoobjung
+! Version 1.0
 ! Last updated: 2019-08-29
 
 movie1free.com##.media-popup-container
