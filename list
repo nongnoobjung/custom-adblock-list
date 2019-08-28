@@ -10,7 +10,6 @@ movie2free.com###content > div.content-main > div:nth-child(7)
 movie2free.com###content > div.content-main > div:nth-child(6)
 movie2free.com###content > div.content-main > div:nth-child(5)
 movie2free.com###content > div.content-main > div:nth-child(3)
-movie2free.com###content > div.content-main > div:nth-child(2)
 movie2free.com###content > div.content-left > div > div.box
 movie2free.com##.content-right
 movie2free.com###content-right
@@ -19,5 +18,6 @@ movie2free.com###wrap > div.header > div.header-right > div:nth-child(2)
 movie2free.com###aaa-banner-left
 movie2free.com###aaa-banner-right
 movie2free.com##.notice
+movie2free.com/wp-content/themes/next/images^$image
 cdn-center55.com^$media
 baover.ml^$media
