@@ -1,8 +1,8 @@
 ! Title: uBlock filters by nongnoobjung
 ! Description: Filters optimized for uBlock
 ! Homepage: https://fb.com/nongnoobjung
-! Version 1.0
-! Last updated: 2019-08-29
+! Version 1.1
+! Last updated: 2019-09-01
 
 movie1free.com##.media-popup-container
 movie2free.com##.media-popup-image
@@ -31,3 +31,15 @@ niceoppai.net##.textwidget > center
 niceoppai.net###sct_footer_banner
 *$image,domain=1.bp.blogspot.com
 
+! 9/1/2019 viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/browser-bunyan.min.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/aws-sdk-mobile-analytics.min.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/sjcl.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/sprintf.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/uuid.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/aws-sdk.min.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/base64.min.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/URI.min.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/bower_components/eventemitter.js$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/const.js?v=20190828_1430$script,domain=www.viu.com
+@@||www.viu.com/ott/th/v1/js/tracking/trackingUtil.js?v=20190828_1430$script,domain=www.viu.com
