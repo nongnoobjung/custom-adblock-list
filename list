@@ -1,15 +1,15 @@
 ! Title: uBlock filters by nongnoobjung
 ! Description: Filters optimized for uBlock
 ! Homepage: https://fb.com/nongnoobjung
-! Version 1.1
-! Last updated: 2019-09-01
+! Version 1.2
+! Last updated: 2019-09-19
 
 movie1free.com##.media-popup-container
 movie2free.com##.media-popup-image
 movie2free.com###content > div.content-main > div:nth-child(8)
 movie2free.com###content > div.content-main > div:nth-child(7)
 movie2free.com###content > div.content-main > div:nth-child(6)
-movie2free.com###content > div.content-main > div:nth-child(5)
+!movie2free.com###content > div.content-main > div:nth-child(5)
 movie2free.com###content > div.content-main > div:nth-child(3)
 movie2free.com###content > div.content-left > div > div.box
 movie2free.com##.content-right
@@ -43,3 +43,9 @@ niceoppai.net###sct_footer_banner
 @@||www.viu.com/ott/th/v1/js/tracking/bower_components/eventemitter.js$script,domain=www.viu.com
 @@||www.viu.com/ott/th/v1/js/tracking/const.js?v=20190828_1430$script,domain=www.viu.com
 @@||www.viu.com/ott/th/v1/js/tracking/trackingUtil.js?v=20190828_1430$script,domain=www.viu.com
+
+! 19/9/2562 movie2free.com
+||s1.cdnstreamth.me/sagame66.mp4$media,domain=movie1free.com
+||cdn.sexygame66.com/video.mp4$media,domain=movie1free.com
+||s1.cdnstreamth.me/sexygame66.mp4$media,domain=movie1free.com
+||cdn.ufabet678.com/SAGAME77.mp4$media,domain=movie1free.com
